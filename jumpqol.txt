@@ -141,8 +141,8 @@
         {
             "CBaseCombatWeapon::ItemPostFrame"
             {
-                "linux"     "278"
-                "windows"   "272"
+                "linux"     "279"
+                "windows"   "273"
             }
 
             "client CBaseCombatWeapon::ItemPostFrame"
@@ -162,8 +162,8 @@
 
             "CBaseFilter::PassesFilterImpl"
             {
-                "linux"     "199"
-                "windows"   "198"
+                "linux"     "200"
+                "windows"   "199"
             }
         }
 
